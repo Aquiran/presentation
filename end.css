@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#txt{
+    border:1px solid transparent;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:white;
+    font-size:180px;
+    font-family: 'Press Start 2P', cursive;
+    cursor:pointer;
+}
